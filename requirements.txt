@@ -1,0 +1,15 @@
+psycopg[binary,pool]
+python-dotenv
+langgraph
+langchain-groq
+langchain-core
+langgraph-checkpoint-postgres
+fastembed
+pypdf
+langchain-text-splitters
+numpy
+fastapi
+"uvicorn[standard]"
+streamlit
+requests
+python-multipart

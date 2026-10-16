@@ -1,0 +1,11 @@
+"sqltools.connections": [
+  {
+    "name": "memorymate",
+    "driver": "PostgreSQL",
+    "server": "localhost",
+    "port": 5432,
+    "database": "memorymate",
+    "username": "memorymate",
+    "askForPassword": true
+  }
+]
